@@ -1,0 +1,13 @@
+id,check,checkingpeer,state,time
+1,1,tprobius,Start,10:01:02
+2,1,tprobius,Success,10:20:05
+3,2,bdupp,Start,10:25:05
+4,2,bdupp,Success,10:25:10
+5,3,vluann,Start,10:30:10
+6,3,vluann,Success,10:31:10
+7,4,tprobius,Start,10:40:02
+8,4,tprobius,Success,10:41:05
+9,5,bromanyt,Start,10:55:02
+10,5,bromanyt,Success,10:56:05
+11,6,bromanyt,Start,11:55:02
+12,6,bromanyt,Success,11:59:02
